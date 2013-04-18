@@ -1,11 +1,11 @@
 Summary:	PulseAudio Volume Control
 Name:		pavucontrol
-Version:	1.0
+Version:	2.0
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Sound
 Source0:	http://freedesktop.org/software/pulseaudio/pavucontrol/%{name}-%{version}.tar.xz
-# Source0-md5:	c8bcd9cfe005d884651e0e5510b8dd1b
+# Source0-md5:	ffefdea76a77f89c6415300b8ad5eb7b
 URL:		http://freedesktop.org/software/pulseaudio/pavucontrol
 BuildRequires:	libcanberra-gtk-devel
 BuildRequires:	libglademm-devel
